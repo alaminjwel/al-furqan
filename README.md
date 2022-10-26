@@ -1,4 +1,4 @@
-# test_project
+# Al Quran App in fluter
 
 A new Flutter project.
 
